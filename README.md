@@ -45,7 +45,7 @@ I will be on the Job Market in 2024/2025.
 
 ### Co-Author:
 
-The second author of this paper is Jaime Polanco-Jiménez, a PhD Student in Economics at Pontifical Xavierian University. You can contact the co-author at:
+The second author of this paper is **Jaime Polanco-Jiménez**, a PhD Student in Economics at Pontifical Xavierian University. You can contact the co-author at:
 - Email: [jaime.polanco@javeriana.edu.co](mailto:jaime.polanco@javeriana.edu.co).
 
 
