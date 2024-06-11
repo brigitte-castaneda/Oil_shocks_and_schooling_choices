@@ -19,7 +19,10 @@ The purpose of this repository is to provide a platform for sharing research mat
 - **Results:** Presents the findings and results of the research.
 - **Maps:**  
 - **Graph:** 
-
+- :file_folder: __Files__:
+     + [Working paper](Docs/paper.pdf)
+     + [Policy brief](Docs/policy_brief.pdf)
+ 
 
 ## Contact
 
